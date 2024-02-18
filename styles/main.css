@@ -10,3 +10,7 @@
 .font-inter {
   font-family: "Inter";
 }
+
+td {
+  padding: 20px;
+}
